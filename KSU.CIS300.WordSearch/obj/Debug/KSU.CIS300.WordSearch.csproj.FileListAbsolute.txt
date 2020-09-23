@@ -1,0 +1,11 @@
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\bin\Debug\KSU.CIS300.WordSearch.exe.config
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\bin\Debug\KSU.CIS300.WordSearch.exe
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\bin\Debug\KSU.CIS300.WordSearch.pdb
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.Properties.Resources.resources
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.csproj.GenerateResource.cache
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.exe
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.pdb
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.csprojResolveAssemblyReference.cache
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.TextPrompt.resources
+C:\Users\Grace\Desktop\HW4\KSU.CIS300.WordSearch\obj\Debug\KSU.CIS300.WordSearch.UserInterface.resources
