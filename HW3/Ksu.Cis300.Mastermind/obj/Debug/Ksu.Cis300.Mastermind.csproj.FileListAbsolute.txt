@@ -1,0 +1,22 @@
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.exe.config
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.exe
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.pdb
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.Properties.Resources.resources
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.UserInterface.resources
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csproj.GenerateResource.cache
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.exe
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.pdb
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.GiveUpDialog.resources
+C:\Users\Grace\Desktop\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csprojResolveAssemblyReference.cache
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.exe.config
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.exe
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\bin\Debug\Ksu.Cis300.Mastermind.pdb
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csprojResolveAssemblyReference.cache
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.GiveUpDialog.resources
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.Properties.Resources.resources
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.UserInterface.resources
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csproj.GenerateResource.cache
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.exe
+C:\Users\Grace\Desktop\CIS 300\HW3\Ksu.Cis300.Mastermind\obj\Debug\Ksu.Cis300.Mastermind.pdb
